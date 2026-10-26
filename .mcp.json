@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cellared": {
+      "type": "http",
+      "url": "https://mcp.cellared.ai/mcp"
+    }
+  }
+}

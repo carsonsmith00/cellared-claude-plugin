@@ -1,0 +1,9 @@
+{
+  "name": "cellared",
+  "version": "0.1.0",
+  "description": "Your Cellared wine collection in Claude: search bottles, check drinking windows, pick what to open, and log tastings.",
+  "author": { "name": "Cellared, LLC", "email": "support@cellared.ai", "url": "https://cellared.ai" },
+  "homepage": "https://cellared.ai",
+  "license": "Proprietary",
+  "keywords": ["wine", "cellar", "drinking windows", "food pairing", "tasting notes"]
+}
